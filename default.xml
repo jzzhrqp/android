@@ -12,7 +12,7 @@
            fetch="ssh://git@gitlab.com" />
 
   <remote  name="aosp"
-           fetch="git://aosp.tuna.tsinghua.edu.cn/android/"
+           fetch="https://aosp.tuna.tsinghua.edu.cn/"
            review="android-review.googlesource.com"
            revision="refs/tags/android-9.0.0_r40" />
 
